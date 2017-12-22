@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\ian\AndroidStudioProjects\MedicalCalculator\app\src\main\assets"><file name="ic_launcher.png" path="C:\Users\ian\AndroidStudioProjects\MedicalCalculator\app\src\main\assets\ic_launcher.png"/></source><source path="C:\Users\ian\AndroidStudioProjects\MedicalCalculator\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\ian\AndroidStudioProjects\MedicalCalculator\app\src\release\assets"/></dataSet></merger>

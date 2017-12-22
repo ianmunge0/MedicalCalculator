@@ -1,0 +1,4 @@
+#Thu Dec 21 18:02:50 EAT 2017
+base.0=C\:\\Users\\ian\\AndroidStudioProjects\\MedicalCalculator\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\ian\\AndroidStudioProjects\\MedicalCalculator\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
